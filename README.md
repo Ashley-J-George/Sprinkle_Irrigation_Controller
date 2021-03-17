@@ -1,7 +1,7 @@
 # Sprinkle Irrigation Controller
 Application of Fuzzy Logic for Sprinkler Controller in Drip Irrigation
 
-Controling how long a sprinkler should function given the current Temprature and Humidity
+## Controling how long a sprinkler should function given the current Temprature and Humidity
 
 **Inputs:**
 
